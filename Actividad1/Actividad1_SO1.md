@@ -1,8 +1,8 @@
-﻿Universidad San Carlos de Guatemala 
-Facultad de Ingeniería 
-Escuela de Ciencias y Sistemas
-Sistemas Operativos 1 sección A
-Ing. Jesús Alberto Gaznan Polanco
+﻿Universidad San Carlos de Guatemala <br>
+Facultad de Ingeniería <br>
+Escuela de Ciencias y Sistemas <br>
+Sistemas Operativos 1 sección A <br>
+Ing. Jesús Alberto Gaznan Polanco 
 <br>
 <br>
 ### <center> Actividad 1 </center>
