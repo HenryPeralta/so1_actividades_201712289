@@ -17,4 +17,5 @@ npm start
 docker run -d -p 3000:80 mifrontend:0.1.0-nginx-alpine
 ```
 
-# Para la solucion de la aplicacion de la actividad 3, se agrego un archivo nginx.conf y en el nginx.Dockerfile se agrego la linea COPY default.conf /etc/nginx/conf.d/default.conf
+# Solucion Actividad 3 
+Para la solucion de la aplicacion de la actividad 3, se agrego un archivo nginx.conf y en el nginx.Dockerfile se agrego la linea COPY default.conf /etc/nginx/conf.d/default.conf
